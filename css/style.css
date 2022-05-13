@@ -1,0 +1,186 @@
+body{
+	background: greenyellow;
+}
+
+.banar{
+	background: #F0FFF0;
+	height: 80vh;
+}
+.navbar-light .navbar-nav .nav-link{
+	
+	color: black !important;
+	
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	border: 1px solid black;
+	font-weight:800 !important;
+	background: white;
+}
+.btn{
+	height: 43px;
+	width: 104px;
+	left: 1201px;
+	top: 25px;
+	color: white !important;
+	border-radius: 50px !important;
+	padding: 12px, 28px, 8px, 28px;
+	background: #21B573 !important;
+
+
+}
+.btn:hover{
+	background: #56548c !important;
+	font-weight: bold;
+
+}
+.nav-cont{
+	padding-top: 50px;
+	margin-left: 30px;
+}
+.nav-left{
+	padding-top: 50px;
+}
+.nav-cont p{
+	font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #FD511A;
+
+}
+.nav-cont h1{
+	font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.nav-cont span{
+	font-size: 48px;
+font-weight: 700;
+	color: #21B573;
+
+}
+.nav-cont h5{
+	font-family: Poppins;
+font-size: 16px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.btn2{
+	height: 43px;
+width: 153px;
+left: 205px;
+top: 470px;
+border-radius: 33px;
+padding: 12px, 36px, 12px, 36px;
+background: #21B573;
+border: none;
+}
+.btn2:hover{
+
+	background: #56548c;
+	font-weight: bold;
+	color: white;
+	transition: 1s;
+
+
+
+}
+.Books{
+	padding: 50px 0px;
+	margin: 0px 10px;
+}
+.book1{
+
+	height: 270px;
+	width: 270px;
+	text-align: center;
+	padding-top: 60px;
+	border-radius: 10px;
+	 background: #F8FFFB;
+
+}
+.book1:hover{
+	background: white !important;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.courses{
+	padding: 30px 0px;
+
+}
+.course-cont{
+	background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+padding: 20px 30px 20px 20px;
+
+}
+
+.course-cont h3{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+padding-top: 10px;
+/* identical to box height */
+
+
+color: #413960;
+}
+.online{
+		text-align: center;
+	font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+color: #413960;
+padding-bottom: 25px;
+
+}
+.course-foot{
+	padding-top: 30px;
+}
+.testomonial{
+	padding: 50px 0px;
+}
+.test{
+	text-align: center !important;
+	font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.user img{
+	width: 100px;
+	height: 120px;
+	border-radius: 100px;
+
+}
+.user{
+	padding-top: 38px;
+	margin-left: 50px;
+}
+.footer{
+	 background: #282531;
+	 color: white;
+	 padding: 70px 0px;
+
+}
+
+
